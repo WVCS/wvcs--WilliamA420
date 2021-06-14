@@ -1,3 +1,13 @@
-body {
-
+body{
+  background-color:#F28482;
 }
+  
+  ul{
+  list-style-type: none;
+  font-family:Monospace;
+  width:100%;
+  overflow:hidden;
+  margin:2;
+  padding:0;
+  background-color:#fbb13c;
+  font-size:16px;
